@@ -1,1 +1,1 @@
-# ts_exploration
+Notebook used for Study Group on 4/12/2021
